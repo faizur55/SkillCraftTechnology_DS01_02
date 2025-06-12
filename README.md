@@ -1,6 +1,5 @@
 # 🧠 SkillCraft Technology – Data Science Task 02  
-**📌 Project:** Exploratory Data Analysis on Nobel Prize Dataset  
-**📁 Repo Name:** `SkillCraftTechnolgy_Datascience_02`  
+**📌 Project:** Exploratory Data Analysis on Nobel Prize Dataset   
 **📍 Dataset Source:** Kaggle - Nobel Prize Dataset
 
 ---
@@ -56,7 +55,7 @@
 ---
 
 ## 📁 GitHub Repository:
-🔗 [GitHub Repo](https://github.com/faizur55/SkillCraftTechnolgy_Datascience_02)
+🔗 https://github.com/faizur55/SkillCraftTechnology_DS01_02
 
 ---
 
@@ -64,3 +63,4 @@
 - Encourage more diversity in nominations (gender + nationality).
 - Institutions can study patterns of Nobel-winning research fields.
 - Data suggests increasing support for interdisciplinary research may yield results.
+
